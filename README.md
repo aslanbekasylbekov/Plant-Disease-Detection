@@ -42,6 +42,11 @@ python train.py
 python evaluate.py
 ```
 
+## Real time detection using OpenCV
+
+```bash
+python real_time_detection.py
+```
 ## License
 
 MIT
